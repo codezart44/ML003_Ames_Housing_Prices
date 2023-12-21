@@ -10,12 +10,6 @@
 ___
 * __Binary Encoding__ - minmize increase of encoded dimensions
 
-* Appropriate encoding
-    - 
-    - 
 
-* ### Appropriate encoding
-    - aasd
-
-* Appropriate encoding
+* ## Appropriate encoding
     - aasd
